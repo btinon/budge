@@ -1,0 +1,1 @@
+This will be a budgeting program just to track expeditures and get familiar with git

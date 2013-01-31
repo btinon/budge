@@ -22,8 +22,8 @@
         echo '<tr>';
         echo '<td colspan="2">&nbsp;</td>';
         echo '</tr>';
-
       }
+      echo '<input type="hidden" name="cnum" value="' . $c . '">';
       ?>
     </table>
     </div>
@@ -43,6 +43,7 @@
         echo '<td colspan="2">&nbsp;</td>';
         echo '</tr>';
       }
+      echo '<input type="hidden" name="enum" value="' . $x . '">';
       ?>
     </table>
       
